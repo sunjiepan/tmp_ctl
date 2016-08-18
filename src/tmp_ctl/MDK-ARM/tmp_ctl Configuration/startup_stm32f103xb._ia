@@ -1,0 +1,6 @@
+--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"
+-I D:\mywork\tmp_ctl\src\tmp_ctl_test_uart\MDK-ARM\RTE
+-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include
+-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0
+--pd "__UVISION_VERSION SETA 514" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"
+--list startup_stm32f103xb.lst --xref -o "tmp_ctl configuration/\startup_stm32f103xb.o" --depend "tmp_ctl configuration/\startup_stm32f103xb.d" "../Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/arm/startup_stm32f103xb.s"

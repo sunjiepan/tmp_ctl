@@ -1,0 +1,13 @@
+tmp_ctl configuration/\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+tmp_ctl configuration/\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+tmp_ctl configuration/\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+tmp_ctl configuration/\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+tmp_ctl configuration/\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+tmp_ctl configuration/\list.o: ../Inc/FreeRTOSConfig.h
+tmp_ctl configuration/\list.o: ../Inc/mxconstants.h
+tmp_ctl configuration/\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+tmp_ctl configuration/\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+tmp_ctl configuration/\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+tmp_ctl configuration/\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+tmp_ctl configuration/\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+tmp_ctl configuration/\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

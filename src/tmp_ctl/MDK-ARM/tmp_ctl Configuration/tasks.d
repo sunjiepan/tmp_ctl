@@ -1,0 +1,17 @@
+tmp_ctl configuration/\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+tmp_ctl configuration/\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+tmp_ctl configuration/\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+tmp_ctl configuration/\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+tmp_ctl configuration/\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+tmp_ctl configuration/\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+tmp_ctl configuration/\tasks.o: ../Inc/FreeRTOSConfig.h
+tmp_ctl configuration/\tasks.o: ../Inc/mxconstants.h
+tmp_ctl configuration/\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+tmp_ctl configuration/\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+tmp_ctl configuration/\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+tmp_ctl configuration/\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+tmp_ctl configuration/\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+tmp_ctl configuration/\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+tmp_ctl configuration/\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+tmp_ctl configuration/\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+tmp_ctl configuration/\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/StackMacros.h

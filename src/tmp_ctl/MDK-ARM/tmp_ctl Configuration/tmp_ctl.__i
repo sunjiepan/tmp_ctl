@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I../Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Include -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I..\MDK-ARM -I..\Drivers\BSP --C99
+-I D:\mywork\tmp_ctl\src\tmp_ctl_test_uart\MDK-ARM\RTE
+-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include
+-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0
+-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB
+-o "tmp_ctl configuration/\tmp_ctl.o" --omf_browse "tmp_ctl configuration/\tmp_ctl.crf" --depend "tmp_ctl configuration/\tmp_ctl.d" "..\Src\tmp_ctl.c"
